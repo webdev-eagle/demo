@@ -1,0 +1,66 @@
+.hat0 {
+    fill: #8c7d5e;
+    stroke: #604f31;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat1 {
+    fill: #7d90af;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat2 {
+    fill: #212223;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat3 {
+    fill: #565656;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat4 {
+    fill: none;
+    stroke: #3e4249;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat5 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.hat6 {
+    fill: #ffe52b;
+}
+
+.hat7 {
+    fill: #bc9c64;
+}
+
+.hat8 {
+    fill: #919191;
+}
+
+.hat9 {
+    fill: #464749;
+}
+
+.hat10 {
+    fill: #fff;
+}
+
+.hat11 {
+    opacity: 0.18;
+    fill: #fff;
+}

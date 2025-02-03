@@ -1,0 +1,5 @@
+export enum ERROR_CODES {
+    UNAVAILABLE = 0,
+    UNEXPECTED = 1,
+    INVALID_ASSET_PAIR = 2,
+}

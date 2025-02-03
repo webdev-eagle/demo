@@ -1,0 +1,30 @@
+.art-cape0 {
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.art-cape1 {
+    fill: #d12663;
+    stroke: #000;
+    stroke-miterlimit: 10;
+}
+
+.art-cape2 {
+    fill: #a31951;
+}
+
+.art-cape3 {
+    fill: #b28012;
+}
+
+.art-cape4 {
+    fill: #e0a328;
+}
+
+.art-cape5 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}

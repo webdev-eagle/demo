@@ -1,0 +1,47 @@
+.glasses0 {
+    fill: #4c4c4c;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.glasses1 {
+    fill: #232323;
+    stroke: #000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.glasses2 {
+    fill: #61656b;
+    stroke: #000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.glasses3 {
+    fill: #a5a5a5;
+}
+
+.glasses4 {
+    fill: #fff;
+}
+
+.glasses5 {
+    opacity: 0.5;
+    fill: #fff;
+}
+
+.glasses6 {
+    opacity: 0.29;
+    fill: #7c7c7c;
+}
+
+.glasses7 {
+    fill: #7c7c7c;
+}
+
+.glasses8 {
+    opacity: 0.06;
+    fill: #7c7c7c;
+}

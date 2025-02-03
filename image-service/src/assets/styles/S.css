@@ -1,0 +1,27 @@
+.pomp-6 {
+    stroke: #000;
+    stroke-width: 0.4;
+    stroke-miterlimit: 10;
+}
+
+.pomp-7 {
+    fill: #282828;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pomp-8 {
+    fill: #0a0a0a;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pomp-9 {
+    fill: #525a66;
+}
+
+.pomp-10 {
+    fill: #282828;
+}

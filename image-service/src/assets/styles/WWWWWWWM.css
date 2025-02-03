@@ -1,0 +1,597 @@
+.mani-st0 {
+    fill: #f7a800;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.mani-st1 {
+    fill: #f7a800;
+}
+
+.mani-st2 {
+    fill: #1d1d1d;
+}
+
+.mani-st3 {
+    fill: #f18a0e;
+}
+
+.mani-st4 {
+    fill: #c60b1e;
+}
+
+.mani-st5 {
+    fill: #ffc400;
+}
+
+.mani-st6 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0199;
+    stroke-linejoin: round;
+}
+
+.mani-st7 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st8 {
+    fill: #c8b100;
+}
+
+.mani-st9 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.023;
+}
+
+.mani-st10 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st11 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0199;
+    stroke-linejoin: round;
+}
+
+.mani-st12 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st13 {
+    fill: #058e6e;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st14 {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st15 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 7.652265e-4;
+}
+
+.mani-st16 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.530453e-3;
+}
+
+.mani-st17 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2.29568e-3;
+}
+
+.mani-st18 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3.060906e-3;
+}
+
+.mani-st19 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3.826133e-3;
+}
+
+.mani-st20 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 4.591359e-3;
+}
+
+.mani-st21 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 5.356586e-3;
+}
+
+.mani-st22 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 6.121812e-3;
+}
+
+.mani-st23 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 6.887039e-3;
+}
+
+.mani-st24 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 7.652265e-3;
+}
+
+.mani-st25 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 8.417492e-3;
+}
+
+.mani-st26 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 9.182719e-3;
+}
+
+.mani-st27 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 9.947944e-3;
+}
+
+.mani-st28 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0107;
+}
+
+.mani-st29 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0115;
+}
+
+.mani-st30 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0138;
+}
+
+.mani-st31 {
+    fill: #005bbf;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st32 {
+    fill: #ccc;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st33 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0298;
+    stroke-linejoin: round;
+}
+
+.mani-st34 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st35 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st36 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st37 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0298;
+    stroke-linejoin: round;
+}
+
+.mani-st38 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0207;
+}
+
+.mani-st39 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0199;
+    stroke-linecap: round;
+}
+
+.mani-st40 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0161;
+}
+
+.mani-st41 {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 0.0161;
+}
+
+.mani-st42 {
+    fill: #005bbf;
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st43 {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st44 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0176;
+}
+
+.mani-st45 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0214;
+}
+
+.mani-st46 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0253;
+}
+
+.mani-st47 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0283;
+}
+
+.mani-st48 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0321;
+}
+
+.mani-st49 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0352;
+}
+
+.mani-st50 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.039;
+}
+
+.mani-st51 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0429;
+}
+
+.mani-st52 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0459;
+}
+
+.mani-st53 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0482;
+}
+
+.mani-st54 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.052;
+}
+
+.mani-st55 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0559;
+}
+
+.mani-st56 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0589;
+}
+
+.mani-st57 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 0.0696;
+}
+
+.mani-st58 {
+    fill: #058e6e;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st59 {
+    fill: #ccc;
+    stroke: #000;
+    stroke-width: 0.0398;
+}
+
+.mani-st60 {
+    fill: #ffd691;
+    stroke: #000;
+    stroke-width: 0.0398;
+}
+
+.mani-st61 {
+    fill: #058e6e;
+    stroke: #000;
+    stroke-width: 0.0398;
+}
+
+.mani-st62 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0398;
+}
+
+.mani-st63 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0398;
+}
+
+.mani-st64 {
+    fill: #c8b100;
+    stroke: #c8b100;
+    stroke-width: 0.0199;
+}
+
+.mani-st65 {
+    fill: #058e6e;
+}
+
+.mani-st66 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.0352;
+}
+
+.mani-st67 {
+    fill: #0039f0;
+}
+
+.mani-st68 {
+    fill: #db4446;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st69 {
+    fill: #ed72aa;
+    stroke: #000;
+    stroke-width: 0.0298;
+}
+
+.mani-st70 {
+    stroke: #000;
+    stroke-width: 0.0199;
+}
+
+.mani-st71 {
+    stroke: #000;
+    stroke-width: 3.826133e-3;
+}
+
+.mani-st72 {
+    fill: #ad1519;
+    stroke: #000;
+    stroke-width: 0.0467;
+}
+
+.mani-st73 {
+    fill: #005bbf;
+    stroke: #000;
+    stroke-width: 0.0467;
+}
+
+.mani-st74 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.026;
+    stroke-linejoin: round;
+}
+
+.mani-st75 {
+    fill: #c8b100;
+    stroke: #000;
+    stroke-width: 0.026;
+}
+
+.mani-st76 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3;
+}
+
+.mani-st77 {
+    fill: #ffd346;
+}
+
+.mani-st78 {
+    fill: #fff;
+}
+
+.mani-st79 {
+    fill: #fbbc2f;
+}
+
+.mani-st80 {
+    fill: #243443;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.mani-st81 {
+    fill: #101d29;
+}
+
+.mani-st82 {
+    fill: #243443;
+    stroke: #000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.mani-st83 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.mani-st84 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #ffc500;
+}
+
+.mani-st85 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.mani-st86 {
+    fill: #d8a132;
+}
+
+.mani-st87 {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 3.1892;
+    stroke-miterlimit: 10;
+}
+
+.mani-st88 {
+    clip-path: url(#SVGID_2_);
+    fill: #68503f;
+    stroke: #000;
+    stroke-width: 3.1892;
+    stroke-miterlimit: 10;
+}
+
+.mani-st89 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3.1892;
+    stroke-miterlimit: 10;
+}
+
+.mani-st90 {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.mani-st91 {
+    clip-path: url(#SVGID_4_);
+    fill: #68503f;
+    stroke: #000;
+    stroke-width: 3.1892;
+    stroke-miterlimit: 10;
+}
+
+.mani-st92 {
+    fill: #7a756f;
+}
+
+.mani-st93 {
+    fill: #ed7601;
+}
+
+.mani-st94 {
+    fill: #d64422;
+}
+
+.mani-st95 {
+    fill: #f2892a;
+}
+
+.mani-st96 {
+    fill: #6b433b;
+}
+
+.mani-st97 {
+    fill: #8d97a0;
+}
+
+.mani-st98 {
+    fill: #e2ddd7;
+}
+
+.mani-st99 {
+    fill: #3a3a3a;
+}
+
+.mani-st100 {
+    fill: #423c39;
+}
+
+.mani-st101 {
+    fill: #191717;
+}
+
+.mani-st102 {
+    fill: #4c4c4c;
+}
+
+.mani-st103 {
+    fill: #7c664f;
+}
+
+.mani-st104 {
+    fill: #6b5e4c;
+}
+
+.mani-st105 {
+    fill: #3a332b;
+}

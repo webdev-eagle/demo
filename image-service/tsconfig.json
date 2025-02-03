@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "baseUrl": "../",
+        "lib": ["ES2019", "DOM"],
+        "sourceMap": true,
+        "allowJs": true,
+        "moduleResolution": "Node",
+        "strict": false,
+        "esModuleInterop": true,
+        "target": "ES2017",
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+        "paths": {
+            "$shared/*": ["./shared/*"]
+        }
+    },
+    "include": ["../image-service", "../shared"],
+    "exclude": ["node_modules"]
+}

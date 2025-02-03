@@ -1,0 +1,1561 @@
+.pet0 {
+    fill: #f18a0e;
+}
+
+.pet1 {
+    fill: #c46626;
+    stroke: #9b3f00;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet2 {
+    fill: #f18a0e;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet3 {
+    fill: #5e5653;
+}
+
+.pet4 {
+    fill: #77635a;
+}
+
+.pet5 {
+    fill: #3f3938;
+}
+
+.pet6 {
+    fill: #5b6170;
+}
+
+.pet7 {
+    fill: #444a56;
+}
+
+.pet8 {
+    fill: #31363f;
+}
+
+.pet9 {
+    fill: #828b9e;
+}
+
+.pet10 {
+    fill: #bcc6d8;
+}
+
+.pet11 {
+    fill: #98a4b7;
+}
+
+.pet12 {
+    fill: #d6deea;
+}
+
+.pet13 {
+    fill: #4c3833;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet14 {
+    fill: #767d8c;
+    stroke: #434f5b;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet15 {
+    fill: #fff;
+}
+
+.pet16 {
+    fill: #40434c;
+}
+
+.pet17 {
+    fill: #2f323a;
+}
+
+.pet18 {
+    fill: #575b63;
+}
+
+.pet19 {
+    opacity: 0.3;
+    fill: #bcc6d8;
+}
+
+.pet20 {
+    fill: #7f554c;
+}
+
+.pet21 {
+    fill: #f7a800;
+}
+
+.pet22 {
+    fill: #aa897d;
+}
+
+.pet23 {
+    fill: #8c96aa;
+}
+
+.pet24 {
+    fill: #89491d;
+}
+
+.pet25 {
+    fill: #c6692a;
+    stroke: #e2ac7a;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet26 {
+    fill: none;
+    stroke: #e2ac7a;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet27 {
+    fill: none;
+    stroke: #e2ac7a;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet28 {
+    fill: #f998d0;
+    stroke: #d860aa;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet29 {
+    fill: #a8f79a;
+    stroke: #85e870;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet30 {
+    fill: #a8f79a;
+}
+
+.pet31 {
+    fill: #85e870;
+}
+
+.pet32 {
+    fill: #deffd7;
+}
+
+.pet33 {
+    fill: #ffcaeb;
+}
+
+.pet34 {
+    fill: #fff4a4;
+}
+
+.pet35 {
+    fill: #db6914;
+}
+
+.pet36 {
+    fill: #db811f;
+}
+
+.pet37 {
+    fill: #f9bf36;
+}
+
+.pet38 {
+    fill: #ffecc5;
+}
+
+.pet39 {
+    fill: #542505;
+}
+
+.pet40 {
+    fill: #bf1d44;
+}
+
+.pet41 {
+    fill: #e50f46;
+}
+
+.pet42 {
+    fill: #ff5c8b;
+}
+
+.pet43 {
+    fill: #872240;
+}
+
+.pet44 {
+    fill: #d05040;
+}
+
+.pet45 {
+    fill: #ff92b6;
+}
+
+.pet46 {
+    fill: #ff1256;
+}
+
+.pet47 {
+    fill: #a81f3e;
+}
+
+.pet48 {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2.8786;
+    stroke-miterlimit: 10;
+}
+
+.pet49 {
+    fill: #ffd346;
+}
+
+.pet50 {
+    fill: #fbbc2f;
+}
+
+.pet51 {
+    fill: #1d1d1d;
+}
+
+.pet52 {
+    fill: #2054aa;
+}
+
+.pet53 {
+    fill: #354459;
+}
+
+.pet54 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet55 {
+    fill: #8a0806;
+}
+
+.pet56 {
+    fill: #601111;
+}
+
+.pet57 {
+    fill: #3a3d3f;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet58 {
+    fill: #e1eaf9;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet59 {
+    fill: #96a1b2;
+}
+
+.pet60 {
+    fill: #1c1e21;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet61 {
+    fill: #917034;
+    stroke: #6b4e3b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet62 {
+    fill: #48739b;
+}
+
+.pet63 {
+    fill: #6f93ba;
+}
+
+.pet64 {
+    fill: #3f6089;
+}
+
+.pet65 {
+    fill: #8dafce;
+}
+
+.pet66 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet67 {
+    fill: #1d1d1b;
+}
+
+.pet68 {
+    fill: #b7cfe2;
+}
+
+.pet69 {
+    fill: #fe273b;
+}
+
+.pet70 {
+    fill: #be0a15;
+}
+
+.pet71 {
+    fill: #a00514;
+}
+
+.pet72 {
+    fill: #4f5256;
+}
+
+.pet73 {
+    fill: #3a3d3f;
+}
+
+.pet74 {
+    fill: #202123;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet75 {
+    fill: #171819;
+}
+
+.pet76 {
+    fill: #2d3033;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet77 {
+    fill: #35393d;
+}
+
+.pet78 {
+    fill: #a99783;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet79 {
+    fill: #8e7e6e;
+    stroke: #a99783;
+    stroke-miterlimit: 10;
+}
+
+.pet80 {
+    fill: #8e7e6e;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet81 {
+    fill: #6d5f53;
+}
+
+.pet82 {
+    fill: #a99783;
+}
+
+.pet83 {
+    fill: #8e7e6e;
+}
+
+.pet84 {
+    fill: #6d5f53;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet85 {
+    fill: #ccc0b4;
+}
+
+.pet86 {
+    fill: #a99783;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet87 {
+    fill: #6b4e3b;
+}
+
+.pet88 {
+    fill: #b6b5b1;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet89 {
+    fill: #7c7c79;
+}
+
+.pet90 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet91 {
+    fill: #b6b5b1;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet92 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet93 {
+    fill: #e2ded0;
+}
+
+.pet94 {
+    fill: #c1a370;
+}
+
+.pet95 {
+    fill: #d6d6d6;
+}
+
+.pet96 {
+    fill: #c2c8cc;
+}
+
+.pet97 {
+    fill: #e6ebef;
+}
+
+.pet98 {
+    fill: #d69513;
+}
+
+.pet99 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.pet100 {
+    fill: #ffde83;
+}
+
+.pet101 {
+    fill: #332929;
+}
+
+.pet102 {
+    fill: #fff;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet103 {
+    fill: #110e0e;
+}
+
+.pet104 {
+    fill: #8a969b;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet105 {
+    fill: #8a969b;
+}
+
+.pet106 {
+    fill: #443d3d;
+}
+
+.pet107 {
+    fill: #373938;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet108 {
+    fill: #262827;
+}
+
+.pet109 {
+    fill: #151615;
+}
+
+.pet110 {
+    fill: #484c51;
+}
+
+.pet111 {
+    fill: #646c70;
+}
+
+.pet112 {
+    fill: #373938;
+}
+
+.pet113 {
+    fill: #889fa8;
+}
+
+.pet114 {
+    fill: #646c70;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet115 {
+    fill: #0445ff;
+}
+
+.pet116 {
+    fill: #689948;
+}
+
+.pet117 {
+    fill: #517c35;
+}
+
+.pet118 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet119 {
+    fill: #fff;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet120 {
+    fill: #ae663e;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet121 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.pet122 {
+    fill: #dd7868;
+}
+
+.pet123 {
+    fill: #838d82;
+}
+
+.pet124 {
+    fill: #555e54;
+}
+
+.pet125 {
+    fill: #cde8f9;
+}
+
+.pet126 {
+    fill: #b4212f;
+}
+
+.pet127 {
+    fill: #5b2329;
+}
+
+.pet128 {
+    fill: #771929;
+}
+
+.pet129 {
+    fill: #293861;
+}
+
+.pet130 {
+    fill: #202a42;
+}
+
+.pet131 {
+    fill: #614e47;
+}
+
+.pet132 {
+    fill: #3d527f;
+}
+
+.pet133 {
+    fill: #896136;
+}
+
+.pet134 {
+    fill: #9d373f;
+}
+
+.pet135 {
+    fill: #9aab50;
+}
+
+.pet136 {
+    opacity: 0.32;
+}
+
+.pet137 {
+    fill: #fff48a;
+}
+
+.pet138 {
+    fill: #d59100;
+}
+
+.pet139 {
+    fill: #ffe266;
+}
+
+.pet140 {
+    fill: #e29000;
+}
+
+.pet141 {
+    fill: #846b5d;
+}
+
+.pet142 {
+    fill: #ef7100;
+}
+
+.pet143 {
+    fill: #37b9c7;
+}
+
+.pet144 {
+    fill: #cce5d0;
+}
+
+.pet145 {
+    fill: #aa1a31;
+}
+
+.pet146 {
+    fill: #ffed00;
+}
+
+.pet147 {
+    fill: #47312b;
+}
+
+.pet148 {
+    fill: #90afb2;
+}
+
+.pet149 {
+    fill: #556e7c;
+}
+
+.pet150 {
+    fill: #d0ebfc;
+}
+
+.pet151 {
+    fill: #914817;
+}
+
+.pet152 {
+    fill: #af6400;
+}
+
+.pet153 {
+    fill: #ffae1f;
+}
+
+.pet154 {
+    fill: #ffe2b8;
+}
+
+.pet155 {
+    fill: #fcc24c;
+}
+
+.pet156 {
+    fill: #058ed9;
+    stroke: #055477;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet157 {
+    fill: #1ca5e5;
+    stroke: #055477;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet158 {
+    fill: #9cb4d8;
+    stroke: #7a8393;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet159 {
+    fill: #d36c37;
+    stroke: #934625;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet160 {
+    fill: #da9e3b;
+}
+
+.pet161 {
+    fill: #6b727f;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet162 {
+    fill: #505968;
+}
+
+.pet163 {
+    fill: #ceddf4;
+}
+
+.pet164 {
+    fill: #2a3442;
+}
+
+.pet165 {
+    fill: #3f434c;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet166 {
+    fill: #8b97a5;
+    stroke: #000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet167 {
+    fill: #2d333d;
+}
+
+.pet168 {
+    opacity: 0.2;
+    fill: #fff;
+}
+
+.pet169 {
+    fill: #c46626;
+    stroke: #9b3f00;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+.pet170 {
+    fill: #027ec9;
+}
+
+.pet171 {
+    fill: #03619b;
+}
+
+.pet172 {
+    fill: #adecfc;
+}
+
+.pet173 {
+    fill: #8db1d4;
+}
+
+.pet174 {
+    fill: #826144;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet175 {
+    fill: #514e4b;
+}
+
+.pet176 {
+    fill: #826144;
+}
+
+.pet177 {
+    fill: #b77c1d;
+}
+
+.pet178 {
+    fill: #313538;
+}
+
+.pet179 {
+    fill: #3e4244;
+}
+
+.pet180 {
+    fill: #473331;
+}
+
+.pet181 {
+    fill: #8a8975;
+}
+
+.pet182 {
+    fill: #a9ab95;
+}
+
+.pet183 {
+    fill: #937654;
+}
+
+.pet184 {
+    fill: #817967;
+}
+
+.pet185 {
+    fill: #a0b5b3;
+}
+
+.pet186 {
+    fill: #bc8b0f;
+}
+
+.pet187 {
+    fill: #e2a620;
+}
+
+.pet188 {
+    fill: #ffdbb0;
+}
+
+.pet189 {
+    fill: none;
+    stroke: #1d1d1b;
+    stroke-width: 4;
+    stroke-miterlimit: 10;
+}
+
+.pet190 {
+    fill: #e29c00;
+}
+
+.pet191 {
+    fill: #ad770b;
+}
+
+.pet192 {
+    fill: #ffb829;
+}
+
+.pet193 {
+    fill: #edad58;
+}
+
+.pet194 {
+    fill: #86962a;
+}
+
+.pet195 {
+    fill: #bc2820;
+}
+
+.pet196 {
+    fill: #defffd;
+}
+
+.pet197 {
+    fill: #82580d;
+}
+
+.pet198 {
+    fill: #23272b;
+}
+
+.pet199 {
+    fill: #2a2c30;
+}
+
+.pet200 {
+    fill: #232528;
+}
+
+.pet201 {
+    fill: #1a1c1e;
+}
+
+.pet202 {
+    fill: #3a3f47;
+}
+
+.pet203 {
+    fill: #2f343a;
+}
+
+.pet204 {
+    fill: #4b515b;
+}
+
+.pet205 {
+    fill: #d20a11;
+}
+
+.pet206 {
+    fill: #921d1c;
+}
+
+.pet207 {
+    fill: #f22736;
+}
+
+.pet208 {
+    fill: #8f6821;
+}
+
+.pet209 {
+    fill: #ff5c70;
+}
+
+.pet210 {
+    fill: #d68400;
+}
+
+.pet211 {
+    fill: #ffbd5c;
+}
+
+.pet212 {
+    fill: #969684;
+}
+
+.pet213 {
+    fill: #565651;
+}
+
+.pet214 {
+    fill: #939979;
+}
+
+.pet215 {
+    fill: #b6b7a7;
+}
+
+.pet216 {
+    fill: #3b3d3f;
+}
+
+.pet217 {
+    fill: #5b5150;
+}
+
+.pet218 {
+    fill: #818588;
+}
+
+.pet219 {
+    fill: #4d4e4f;
+}
+
+.pet220 {
+    fill: #3a6022;
+}
+
+.pet221 {
+    fill: #fff;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet222 {
+    fill: #ae663e;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet223 {
+    fill: #ce6b57;
+}
+
+.pet224 {
+    fill: #ddd;
+}
+
+.pet225 {
+    fill: #c4c4c4;
+}
+
+.pet226 {
+    fill: none;
+    stroke: #839391;
+    stroke-width: 4;
+    stroke-miterlimit: 10;
+}
+
+.pet227 {
+    fill: #b4e1fa;
+}
+
+.pet228 {
+    fill: #cdeafc;
+}
+
+.pet229 {
+    fill: #6fa4bc;
+}
+
+.pet230 {
+    fill: #afbdd8;
+}
+
+.pet231 {
+    fill: #d7f3ff;
+}
+
+.pet232 {
+    fill: #c7dbf9;
+}
+
+.pet233 {
+    fill: #459cba;
+}
+
+.pet234 {
+    fill: #76c8e5;
+}
+
+.pet235 {
+    fill: #9b3f00;
+}
+
+.pet236 {
+    fill: #c46626;
+}
+
+.pet237 {
+    fill: #3a3f47;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet238 {
+    fill: #5b6068;
+}
+
+.pet239 {
+    fill: #423a37;
+}
+
+.pet240 {
+    fill: #2d2725;
+}
+
+.pet241 {
+    fill: #a55f13;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet242 {
+    fill: #753b01;
+}
+
+.pet243 {
+    fill: #211f1c;
+}
+
+.pet244 {
+    fill: #3f3d3b;
+}
+
+.pet245 {
+    fill: #d82b2b;
+}
+
+.pet246 {
+    fill: #69001b;
+}
+
+.pet247 {
+    fill: #ff4040;
+}
+
+.pet248 {
+    fill: #cceae9;
+}
+
+.pet249 {
+    fill: #6d91aa;
+}
+
+.pet250 {
+    fill: #ffefe5;
+}
+
+.pet251 {
+    fill: #aceace;
+}
+
+.pet252 {
+    fill: #5b778e;
+}
+
+.pet253 {
+    fill: #af0000;
+}
+
+.pet254 {
+    fill: #baccdd;
+}
+
+.pet255 {
+    fill: #c7eeff;
+}
+
+.pet256 {
+    fill: #c8d9e8;
+}
+
+.pet257 {
+    fill: #cdf7ff;
+}
+
+.pet258 {
+    fill: #363d5c;
+}
+
+.pet259 {
+    opacity: 0.5;
+}
+
+.pet260 {
+    fill: #8d96a0;
+}
+
+.pet261 {
+    fill: #3e5a6d;
+}
+
+.pet262 {
+    opacity: 0.6;
+}
+
+.pet263 {
+    fill: #f43838;
+}
+
+.pet264 {
+    fill: #85838e;
+}
+
+.pet265 {
+    fill: #63626b;
+}
+
+.pet266 {
+    fill: #9c9ba8;
+}
+
+.pet267 {
+    fill: #cdccdd;
+}
+
+.pet268 {
+    fill: #e59033;
+    stroke: #59412a;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet269 {
+    fill: #f9b046;
+}
+
+.pet270 {
+    fill: #d39392;
+    stroke: #7a5454;
+    stroke-miterlimit: 10;
+}
+
+.pet271 {
+    fill: #ffcaca;
+}
+
+.pet272 {
+    fill: #c7afa3;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet273 {
+    fill: #6a4a3b;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet274 {
+    fill: #675b5c;
+}
+
+.pet275 {
+    fill: #3d3637;
+}
+
+.pet276 {
+    fill: #4c3f39;
+}
+
+.pet277 {
+    fill: #e5d0c7;
+}
+
+.pet278 {
+    fill: #f4e8e4;
+}
+
+.pet279 {
+    fill: #423c3d;
+}
+
+.pet280 {
+    fill: #545454;
+}
+
+.pet281 {
+    fill: #727272;
+}
+
+.pet282 {
+    fill: #6a4a3b;
+}
+
+.pet283 {
+    fill: #8d6645;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet284 {
+    fill: #cf803d;
+}
+
+.pet285 {
+    fill: #dd9a68;
+}
+
+.pet286 {
+    fill: #dab893;
+}
+
+.pet287 {
+    fill: #edd5be;
+}
+
+.pet288 {
+    fill: #8d6645;
+}
+
+.pet289 {
+    fill: #824920;
+}
+
+.pet290 {
+    fill: #604b3c;
+}
+
+.pet291 {
+    fill: #646363;
+}
+
+.pet292 {
+    fill: #f3957e;
+}
+
+.pet293 {
+    fill: #ffded7;
+}
+
+.pet294 {
+    fill: #bf6d5c;
+}
+
+.pet295 {
+    fill: #baccdd;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet296 {
+    fill: #8599aa;
+}
+
+.pet297 {
+    fill: #2fa0ba;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet298 {
+    fill: #0c6689;
+}
+
+.pet299 {
+    fill: #114859;
+}
+
+.pet300 {
+    fill: #2fa0ba;
+}
+
+.pet301 {
+    fill: #31363a;
+}
+
+.pet302 {
+    fill: #ed7601;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet303 {
+    fill: #535b60;
+}
+
+.pet304 {
+    fill: #b75700;
+}
+
+.pet305 {
+    fill: #ffbe83;
+}
+
+.pet306 {
+    fill: #2fa0ba;
+    stroke: #1d1d1b;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+.pet307 {
+    fill: #67b9c6;
+}
+
+.pet308 {
+    fill: #9b723a;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet309 {
+    fill: #a59179;
+}
+
+.pet310 {
+    fill: #856c43;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet311 {
+    fill: #403225;
+}
+
+.pet312 {
+    fill: #c2ab81;
+}
+
+.pet313 {
+    fill: #82735b;
+}
+
+.pet314 {
+    fill: #564c3d;
+}
+
+.pet315 {
+    fill: #3d3730;
+}
+
+.pet316 {
+    fill: #e2d3ba;
+}
+
+.pet317 {
+    fill: #9b723a;
+}
+
+.pet318 {
+    fill: #59595b;
+}
+
+.pet319 {
+    fill: #755938;
+}
+
+.pet320 {
+    fill: #7c786d;
+}
+
+.pet321 {
+    fill: #b5b1a7;
+}
+
+.pet322 {
+    fill: #544433;
+}
+
+.pet323 {
+    fill: #474747;
+}
+
+.pet324 {
+    opacity: 0.3;
+    fill: #fff;
+}
+
+.pet325 {
+    fill: #685f59;
+}
+
+.pet326 {
+    fill: #6e7f69;
+    stroke: #1d1d1b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.pet327 {
+    fill: #566053;
+}
+
+.pet328 {
+    fill: #3c4439;
+}
+
+.pet329 {
+    fill: #704d47;
+}
+
+.pet330 {
+    fill: #6e7f69;
+    stroke: #1d1d1b;
+    stroke-miterlimit: 10;
+}
+
+.pet331 {
+    fill: #6e7f69;
+}
+
+.pet332 {
+    fill: #a4a579;
+}
+
+.pet333 {
+    fill: #8c9e83;
+}
+
+.pet334 {
+    fill: #474f45;
+}
+
+.pet335 {
+    fill: #b6c1aa;
+}
+
+.pet336 {
+    fill: #c1c1a3;
+}
+
+.pet337 {
+    fill: #a85c51;
+}
+
+.pet338 {
+    fill: #f4e9bd;
+}
+
+.pet339 {
+    fill: #6a7677;
+}
+
+.pet340 {
+    fill: #fc6600;
+}
+
+.pet341 {
+    fill: #d63200;
+}
+
+.pet342 {
+    fill: #ff8415;
+}

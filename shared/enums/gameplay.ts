@@ -1,0 +1,46 @@
+export enum GameplayActionType {
+    Attack = 'Attack',
+    Piercing_Attack = 'Piercing_Attack',
+    Defense = 'Defense',
+    Heal = 'Heal',
+    HealEnemy = 'HealEnemy',
+    Freeze = 'Freeze',
+    Freeze_Card = 'Freeze_Card',
+    Dummy = 'Dummy',
+    Reflect = 'Reflect',
+    Deflect = 'Deflect',
+    Bonus_Shield = 'Bonus_Shield',
+    Reduce_Effect = 'Reduce_Effect',
+    Over_Heal = 'Over_Heal',
+    Heal_Percentage = 'Heal_Percentage',
+    Ultimate_Focus = 'Ultimate_Focus',
+    Craziness = 'Craziness',
+    Reverse_Enemy_Actions = 'Reverse_Enemy_Actions',
+    Poison = 'Poison',
+    Love = 'Love',
+}
+
+export enum GameplayActionTarget {
+    Up = 'Up',
+    Mid = 'Mid',
+    Down = 'Down',
+    Heal = 'Heal',
+    HealEnemy = 'HealEnemy',
+    Craziness = 'Craziness',
+    Over_Heal = 'Over_Heal',
+    Heal_Percentage = 'Heal_Percentage',
+    Reverse_Enemy_Actions = 'Reverse_Enemy_Actions',
+    Ultimate_Focus = 'Ultimate_Focus',
+}
+
+export enum GameplayEvents {
+    WAIT_FOR_SIGN,
+    SIGNED,
+    SIGN_ERROR,
+    START_GAME,
+    MAKE_TURN,
+    NEXT_ROUND,
+    MISSED_MOVE,
+    GAME_OVER,
+    LEFT_GAME_IN_PROGRESS,
+}

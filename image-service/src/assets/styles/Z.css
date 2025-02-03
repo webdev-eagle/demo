@@ -1,0 +1,394 @@
+.rob0 {
+    fill: #f7a800;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob1 {
+    fill: #ffd346;
+}
+.rob2 {
+    fill: #ffffff;
+}
+.rob3 {
+    fill: #fbbc2f;
+}
+.rob4 {
+    fill: #1d1d1d;
+}
+.rob5 {
+    fill: #212021;
+}
+.rob6 {
+    fill: #ffffff;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob7 {
+    fill: #1d1c2b;
+}
+.rob8 {
+    fill: #2b2b2b;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob9 {
+    fill: #2b304e;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob10 {
+    fill: #3d4363;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob11 {
+    fill: #6f9892;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob12 {
+    fill: #528980;
+}
+.rob13 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob14 {
+    fill: #423c39;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob15 {
+    fill: #594f4b;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob16 {
+    fill: #7999d2;
+}
+.rob17 {
+    fill: #8e8e8e;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob18 {
+    fill: #2b2b2b;
+}
+.rob19 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+.rob20 {
+    fill: #cfe3f9;
+}
+.rob21 {
+    fill: #a7b7c6;
+}
+.rob22 {
+    fill: #474951;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob23 {
+    fill: #605647;
+}
+.rob24 {
+    fill: #aab3bc;
+}
+.rob25 {
+    fill: #222223;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob26 {
+    fill: #ff0000;
+}
+.rob27 {
+    fill: #4f494d;
+}
+.rob28 {
+    fill: #383838;
+}
+.rob29 {
+    fill: #707070;
+}
+.rob30 {
+    fill: #f18a0e;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob31 {
+    fill: #f18a0e;
+}
+.rob32 {
+    fill: #d8a132;
+}
+.rob34 {
+    fill: #3f2f20;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob35 {
+    fill: #827264;
+}
+.rob38 {
+    fill: #3d2d2c;
+    stroke: #000000;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob41 {
+    fill: #211719;
+    stroke: #000000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.rob42 {
+    fill: #35332e;
+}
+.rob45 {
+    fill: #59704c;
+    stroke: #000000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.rob46 {
+    stroke: #7a9965;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.rob51 {
+    fill: #7a8793;
+    stroke: #343a3f;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.rob52 {
+    fill: #8ea7ba;
+}
+
+.rob55 {
+    fill: #332926;
+}
+.rob57 {
+    fill: #77530a;
+}
+.rob58 {
+    fill: #e5811f;
+}
+.rob60 {
+    fill: #331e1d;
+}
+.rob61 {
+    fill: #686563;
+}
+.rob63 {
+    fill: #75706a;
+}
+.rob64 {
+    fill: #876d51;
+}
+.rob65 {
+    fill: #473b3f;
+}
+.rob66 {
+    fill: #ed7601;
+}
+.rob67 {
+    fill: #d64422;
+}
+.rob68 {
+    fill: #f2892a;
+}
+.rob69 {
+    fill: #6d645c;
+}
+.rob70 {
+    fill: #413337;
+}
+.rob71 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 0.4;
+    stroke-miterlimit: 10;
+}
+.rob72 {
+    fill: #583e32;
+}
+.rob73 {
+    fill: #b37750;
+}
+.rob74 {
+    fill: #af2409;
+}
+.rob75 {
+    fill: #ef5e41;
+}
+.rob76 {
+    fill: #d64422;
+    stroke: #af2409;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.rob77 {
+    fill: none;
+    stroke: #af2409;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.rob78 {
+    fill: none;
+    stroke: #af2409;
+    stroke-width: 4;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.rob79 {
+    fill: none;
+    stroke: #af2409;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.rob80 {
+    fill: #726140;
+}
+.rob81 {
+    fill: #56483b;
+}
+.rob82 {
+    fill: #7c2c1d;
+}
+.rob83 {
+    fill: #a1a5b2;
+}
+.rob84 {
+    fill: #d1d5e0;
+}
+.rob85 {
+    fill: #222223;
+}
+.rob86 {
+    fill: #8e8576;
+}
+.rob87 {
+    fill: #d1c3a1;
+}
+.rob88 {
+    fill: #514639;
+}
+.rob89 {
+    fill: #333146;
+}
+.rob90 {
+    fill: #826c56;
+}
+.rob91 {
+    fill: #ada28a;
+}
+.rob92 {
+    fill: #57443c;
+}
+.rob93 {
+    fill: #3a3331;
+}
+.rob94 {
+    fill: #211d1c;
+}
+.rob95 {
+    fill: #4f3f42;
+}
+.rob96 {
+    fill: #78554c;
+}
+.rob97 {
+    fill: #936f54;
+}
+.rob98 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.rob99 {
+    fill: #605955;
+}
+.rob100 {
+    fill: #77726a;
+}
+.rob101 {
+    fill: #313133;
+}
+.rob102 {
+    fill: #514c4a;
+}
+.rob103 {
+    fill: #a59c8e;
+}
+.rob104 {
+    fill: #7f7777;
+}
+.rob105 {
+    fill: #66605f;
+}
+.rob106 {
+    fill: #444140;
+}
+.rob107 {
+    fill: #6b5e4c;
+}
+.rob108 {
+    fill: #4c3f36;
+}
+.rob109 {
+    fill: #ffedec;
+}
+.rob110 {
+    fill: #776a7d;
+}
+.rob111 {
+    fill: #785448;
+}
+.rob112 {
+    fill: #4b4040;
+}
+.rob113 {
+    fill: #5b4f39;
+}
+.rob114 {
+    fill: #8c7751;
+}
+.rob115 {
+    fill: #938670;
+}
+.rob116 {
+    fill: #7c705e;
+}
+.rob117 {
+    fill: #383736;
+}
+.rob118 {
+    fill: #92939e;
+}

@@ -1,0 +1,964 @@
+.st0 {
+    opacity: 0.14;
+    fill: #ff002f;
+}
+.st1 {
+    opacity: 0.58;
+}
+.st2 {
+    opacity: 0.3;
+    fill: #ff5558;
+}
+.st3 {
+    opacity: 0.22;
+}
+.st4 {
+    opacity: 0.3;
+    fill: #00ffff;
+}
+.st5 {
+    fill: #ff0000;
+}
+.st6 {
+    opacity: 0.58;
+    fill: #ffa900;
+}
+.st7 {
+    fill: #e58916;
+}
+.st8 {
+    fill: #9ab0d7;
+}
+.st9 {
+    fill: #fff9ff;
+    stroke: #fff937;
+    stroke-miterlimit: 10;
+}
+.st10 {
+    fill: #5e6466;
+}
+.st11 {
+    fill: #c7bbd7;
+}
+.st12 {
+    fill: #fff93e;
+}
+.st13 {
+    opacity: 0.76;
+    fill: #5e6466;
+}
+.st14 {
+    opacity: 0.64;
+    fill: #657a99;
+}
+.st15 {
+    fill: #657a99;
+}
+.st16 {
+    fill: #c80000;
+}
+.st17 {
+    fill: #ffff00;
+}
+.st18 {
+    fill: #ffffff;
+}
+.st19 {
+    opacity: 0.13;
+    fill: #ff0000;
+}
+.st20 {
+    fill: #ffb6b6;
+}
+.st21 {
+    fill: #b8b3cc;
+}
+.st22 {
+    opacity: 0.6;
+}
+.st23 {
+    opacity: 0.4;
+    fill: #9ab0d7;
+}
+.st24 {
+    fill: #4a4f52;
+}
+.st25 {
+    fill: none;
+}
+.st26 {
+    fill: #b8b3cc;
+    stroke: #c9e1e2;
+    stroke-width: 0.9602;
+    stroke-miterlimit: 10;
+}
+.st27 {
+    fill: #ff002f;
+}
+.st28 {
+    fill: #ff916f;
+}
+.st29 {
+    fill: #a8dae5;
+}
+.st30 {
+    fill: #93b3c6;
+    stroke: #5b6682;
+    stroke-miterlimit: 10;
+}
+.st31 {
+    fill: #90d1e0;
+}
+.st32 {
+    fill: #cce8ed;
+}
+.st33 {
+    opacity: 0.4;
+    fill: #222e3f;
+}
+.st34 {
+    opacity: 0.3;
+    fill: #353a42;
+}
+.st35 {
+    fill: #00caff;
+}
+.st36 {
+    fill: #82edff;
+}
+.st37 {
+    fill: #687ba5;
+    stroke: #446799;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st38 {
+    opacity: 0.4;
+    fill: #ffffff;
+}
+.st39 {
+    fill: #916249;
+    stroke: #44240c;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st40 {
+    fill: #44240c;
+}
+.st41 {
+    fill: #d08d49;
+}
+.st42 {
+    fill: #ffc271;
+}
+.st43 {
+    fill: #98a0af;
+    stroke: #446799;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st44 {
+    fill: #7591c9;
+}
+.st45 {
+    fill: #c0e1ff;
+}
+.st46 {
+    fill: none;
+    stroke: #446799;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st47 {
+    opacity: 0.3;
+    fill: #ffffff;
+}
+.st48 {
+    opacity: 0.5;
+    fill: #ffffff;
+}
+.st49 {
+    fill: #63799e;
+}
+.st50 {
+    fill: #3b577f;
+}
+.st51 {
+    fill: #b8e2ff;
+}
+.st52 {
+    opacity: 0.3;
+    fill: #b8e2ff;
+}
+.st53 {
+    fill: #538399;
+}
+.st54 {
+    fill: #384f5b;
+}
+.st55 {
+    opacity: 0.3;
+    fill: #222e3f;
+}
+.st56 {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 4;
+    stroke-miterlimit: 10;
+}
+.st57 {
+    fill: #90d1e0;
+    stroke: #384f5b;
+    stroke-miterlimit: 10;
+}
+.st58 {
+    fill: #384f5b;
+    stroke: #000000;
+    stroke-width: 0.7174;
+    stroke-miterlimit: 10;
+}
+.st59 {
+    fill: #59ff86;
+    stroke: #000000;
+    stroke-width: 0.7174;
+    stroke-miterlimit: 10;
+}
+.st60 {
+    fill: #6d8c9b;
+    stroke: #57606d;
+    stroke-width: 0.6464;
+    stroke-miterlimit: 10;
+}
+.st61 {
+    fill: #00bff8;
+    stroke: #6373b7;
+    stroke-width: 0.7174;
+    stroke-miterlimit: 10;
+}
+.st62 {
+    fill: #653d58;
+    stroke: #442a39;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.st63 {
+    fill: #90d1e0;
+    stroke: #000000;
+    stroke-width: 0.6464;
+    stroke-miterlimit: 10;
+}
+.st64 {
+    fill: #cccba2;
+}
+.st65 {
+    fill: #4d5f82;
+}
+.st66 {
+    fill: #7b869b;
+}
+.st67 {
+    fill: #d6cb9e;
+    stroke: #5e6366;
+    stroke-width: 0.9608;
+    stroke-miterlimit: 10;
+}
+.st68 {
+    fill: #8ea5b5;
+    stroke: #5e6366;
+    stroke-width: 0.9608;
+    stroke-miterlimit: 10;
+}
+.st69 {
+    fill: #af876b;
+    stroke: #5e5072;
+    stroke-width: 0.9608;
+    stroke-miterlimit: 10;
+}
+.st70 {
+    fill: #7e899b;
+}
+.st71 {
+    fill: #87a3b1;
+    stroke: #442a39;
+    stroke-width: 0.7057;
+    stroke-miterlimit: 10;
+}
+.st72 {
+    fill: #442a39;
+}
+.st73 {
+    fill: #465166;
+}
+.st74 {
+    fill: #556c77;
+}
+.st75 {
+    opacity: 0.5;
+    fill: #442a39;
+}
+.st76 {
+    fill: #d2c99e;
+    stroke: #442a39;
+    stroke-width: 0.8981;
+    stroke-miterlimit: 10;
+}
+.st77 {
+    fill: #206c4c;
+}
+.st78 {
+    opacity: 0.3;
+    fill: #556c77;
+}
+.st79 {
+    fill: #9ef326;
+    stroke: #154500;
+    stroke-width: 0.8981;
+    stroke-miterlimit: 10;
+}
+.st80 {
+    fill: #e14627;
+    stroke: #423440;
+    stroke-miterlimit: 10;
+}
+.st81 {
+    fill: #e17d27;
+    stroke: #423440;
+    stroke-miterlimit: 10;
+}
+.st82 {
+    fill: #83ac00;
+    stroke: #423440;
+    stroke-miterlimit: 10;
+}
+.st83 {
+    fill: #5992a5;
+    stroke: #423440;
+    stroke-miterlimit: 10;
+}
+.st84 {
+    fill: #d1ca9c;
+    stroke: #604052;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st85 {
+    fill: #423b56;
+}
+.st86 {
+    fill: #653c5c;
+}
+.st87 {
+    fill: #885a5c;
+}
+.st88 {
+    fill: #87a3b1;
+}
+.st89 {
+    fill: #5c6a70;
+}
+.st90 {
+    fill: #4d5b6b;
+    stroke: #748daa;
+    stroke-width: 1.0803;
+    stroke-miterlimit: 10;
+}
+.st91 {
+    fill: #442a39;
+    stroke: #442a39;
+    stroke-width: 0.9608;
+    stroke-miterlimit: 10;
+}
+.st92 {
+    fill: #88a2b1;
+    stroke: #442a39;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st93 {
+    fill: #d1ca9c;
+    stroke: #9b8561;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st94 {
+    opacity: 0.3;
+    fill: #7a7b7f;
+}
+.st95 {
+    fill: #72747c;
+    stroke: #423440;
+    stroke-miterlimit: 10;
+}
+.st96 {
+    opacity: 0.1;
+    fill: #21ff83;
+}
+.st97 {
+    opacity: 0.8;
+    fill: #ffffff;
+}
+.st98 {
+    opacity: 0.2;
+    fill: #67feb1;
+}
+.st99 {
+    opacity: 0.7;
+    fill: #21ffff;
+}
+.st100 {
+    fill: #3e4c51;
+    stroke: #4f585d;
+    stroke-width: 0.9293;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st101 {
+    fill: #88a2b1;
+    stroke: #4f585d;
+    stroke-width: 0.9293;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st102 {
+    fill: #b3ffd5;
+    stroke: #29ff76;
+    stroke-miterlimit: 10;
+}
+.st103 {
+    opacity: 0.5;
+    fill: #4f585d;
+}
+.st104 {
+    opacity: 0.3;
+    fill: #4f585d;
+}
+.st105 {
+    opacity: 0.4;
+    fill: #cdf7e1;
+}
+.st106 {
+    fill: #cdf7e1;
+}
+.st107 {
+    opacity: 0.3;
+    fill: #67feb1;
+}
+.st108 {
+    fill: #29ff76;
+}
+.st109 {
+    fill: #67feb1;
+    stroke: #29ff76;
+    stroke-miterlimit: 10;
+}
+.st110 {
+    fill: #fffeb1;
+}
+.st111 {
+    fill: #cee1ea;
+    stroke: #88a2b1;
+    stroke-miterlimit: 10;
+}
+.st112 {
+    fill: #67feb1;
+}
+.st113 {
+    fill: #5b6e77;
+    stroke: #4f585d;
+    stroke-width: 0.9293;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st114 {
+    opacity: 0.3;
+    fill: #ffcd50;
+}
+.st115 {
+    opacity: 0.7;
+    fill: #ffffff;
+}
+.st116 {
+    fill: #ffe51b;
+    stroke: #ffff8b;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.st117 {
+    fill: #8c9aa8;
+}
+.st118 {
+    fill: #6e9ac5;
+}
+.st119 {
+    fill: #c9e2e1;
+}
+.st120 {
+    fill: #b35500;
+}
+.st121 {
+    fill: #7d8789;
+}
+.st122 {
+    fill: #b8cacc;
+    stroke: #c9e1e2;
+    stroke-miterlimit: 10;
+}
+.st123 {
+    opacity: 0.5;
+    fill: #9ab7b6;
+}
+.st124 {
+    fill: #d28e6e;
+}
+.st125 {
+    fill: #9ab7b6;
+}
+.st126 {
+    fill: #a8d0e5;
+}
+.st127 {
+    opacity: 0.7;
+}
+.st128 {
+    fill: #b5af8f;
+}
+.st129 {
+    fill: #243a3a;
+}
+.st130 {
+    opacity: 0.7;
+    fill: #4a4f52;
+}
+.st131 {
+    fill: #ffa129;
+}
+.st132 {
+    fill: #6f6f72;
+}
+.st133 {
+    fill: #9abacc;
+}
+.st134 {
+    fill: #beccd3;
+}
+.st135 {
+    fill: #f2cf61;
+}
+.st136 {
+    fill: #ffff7c;
+}
+.st137 {
+    fill: #efdb8b;
+}
+.st138 {
+    fill: #c9e1e2;
+}
+.st139 {
+    opacity: 0.4;
+    fill: #8c9aa8;
+}
+.st140 {
+    opacity: 0.3;
+    fill: #4a4f52;
+}
+.st141 {
+    fill: #7e8096;
+}
+.st142 {
+    fill: #64677a;
+}
+.st143 {
+    opacity: 0.4;
+    fill: #c6d9ff;
+}
+.st144 {
+    fill: #e2d9c3;
+}
+.st145 {
+    fill: #72a7dd;
+}
+.st146 {
+    fill: #5b6589;
+}
+.st147 {
+    opacity: 0.39;
+}
+.st148 {
+    fill: #ffd400;
+    stroke: #454951;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st149 {
+    fill: #709199;
+    stroke: #4f585d;
+    stroke-miterlimit: 10;
+}
+.st150 {
+    fill: #5a7377;
+}
+.st151 {
+    fill: none;
+    stroke: #f51bff;
+    stroke-width: 0.675;
+    stroke-miterlimit: 10;
+}
+.st152 {
+    fill: #ffe32a;
+}
+.st153 {
+    fill: #231f20;
+}
+.st154 {
+    opacity: 0.3;
+    fill: #88a2b1;
+}
+.st155 {
+    opacity: 0.3;
+    fill: #cccba2;
+}
+.st156 {
+    opacity: 0.7;
+    fill: #cdf7e1;
+}
+.st157 {
+    opacity: 0.5;
+    fill: #423a35;
+}
+.st158 {
+    fill: #b9cfdb;
+}
+.st159 {
+    fill: #88a2b1;
+}
+.st160 {
+    fill: #45536d;
+}
+.st161 {
+    fill: #88a2b1;
+    stroke: #45536d;
+    stroke-width: 2.0089;
+    stroke-miterlimit: 10;
+}
+.st162 {
+    fill: #88a2b1;
+    stroke: #45536d;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st163 {
+    opacity: 0.4;
+    fill: #c8ffff;
+}
+.st164 {
+    fill: #7297a0;
+    stroke: #45536d;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st165 {
+    fill: #a7c8ce;
+    stroke: #45536d;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st166 {
+    opacity: 0.2;
+    fill: #c8ffff;
+}
+.st167 {
+    fill: #455368;
+}
+.st168 {
+    fill: #a7c8ce;
+    stroke: #464a51;
+    stroke-width: 0.75;
+    stroke-miterlimit: 10;
+}
+.st169 {
+    fill: #c6dae5;
+}
+.st170 {
+    fill: #c8ffff;
+}
+.st171 {
+    fill: #ff7a00;
+}
+.st172 {
+    opacity: 0.42;
+    fill: #ff7a00;
+}
+.st173 {
+    opacity: 0.2;
+}
+.st174 {
+    fill: #69758c;
+}
+.st175 {
+    fill: #767e8c;
+}
+.st176 {
+    opacity: 0.2;
+    fill: #69758c;
+}
+.st177 {
+    opacity: 0.2;
+    fill: #ffffff;
+}
+.st178 {
+    opacity: 0.5;
+    fill: #464651;
+}
+.st179 {
+    opacity: 0.2;
+    fill: #c74000;
+}
+.st180 {
+    opacity: 0.6;
+    fill: #ffeb97;
+}
+.st181 {
+    fill: #ffeb97;
+}
+.st182 {
+    fill: #ff8457;
+}
+.st183 {
+    opacity: 0.5;
+}
+.st184 {
+    fill: #40f41f;
+}
+.st185 {
+    fill: #1ca500;
+}
+.st186 {
+    fill: #187c00;
+}
+.st187 {
+    fill: #d3f326;
+}
+.st188 {
+    opacity: 0.3;
+    fill: #80f326;
+}
+.st189 {
+    opacity: 0.4;
+    fill: #fff9ae;
+}
+.st190 {
+    opacity: 0.7;
+    fill: #442a39;
+}
+.st191 {
+    opacity: 0.4;
+    fill: #442a39;
+}
+.st192 {
+    fill: #3a4249;
+}
+.st193 {
+    fill: #878a93;
+}
+.st194 {
+    opacity: 0.5;
+    fill: #cccba2;
+}
+.st195 {
+    opacity: 0.3;
+    fill: #5c6a70;
+}
+.st196 {
+    opacity: 0.4;
+    fill: #ffeb97;
+}
+.st197 {
+    opacity: 0.5;
+    fill: #ffeb97;
+}
+.st198 {
+    opacity: 0.3;
+    fill: #ffeb97;
+}
+.st199 {
+    opacity: 0.3;
+    fill: #c74000;
+}
+.st200 {
+    fill: #8ea5b5;
+}
+.st201 {
+    fill: #d6cb9e;
+}
+.st202 {
+    fill: #847e73;
+}
+.st203 {
+    opacity: 0.6;
+    fill: #3a4249;
+}
+.st204 {
+    opacity: 0.4;
+}
+.st205 {
+    fill: #616b7a;
+    stroke: #000000;
+    stroke-width: 0.7174;
+    stroke-miterlimit: 10;
+}
+.st206 {
+    fill: #acfaff;
+}
+.st207 {
+    fill: #88cbe5;
+}
+.st208 {
+    fill: #93ffff;
+    stroke: #ffffff;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+.st209 {
+    fill: #93ffff;
+}
+.st210 {
+    fill: #616b7a;
+}
+.st211 {
+    opacity: 0.36;
+    fill: #001030;
+}
+.st212 {
+    fill: #705987;
+    stroke: #402a59;
+    stroke-width: 0.7103;
+    stroke-miterlimit: 10;
+}
+.st213 {
+    fill: #acfaff;
+    stroke: #000000;
+    stroke-width: 1.2286;
+    stroke-miterlimit: 10;
+}
+.st214 {
+    fill: #538399;
+    stroke: #384f5b;
+    stroke-miterlimit: 10;
+}
+.st215 {
+    opacity: 0.68;
+    fill: #90d1e0;
+}
+.st216 {
+    opacity: 0.46;
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 4;
+    stroke-miterlimit: 10;
+}
+.st217 {
+    fill: #93b3c6;
+}
+.st218 {
+    fill: #84adbc;
+}
+.st219 {
+    fill: #6d8c9b;
+    stroke: #384f5b;
+    stroke-miterlimit: 10;
+}
+.st220 {
+    opacity: 0.4;
+    fill: #cce8ed;
+}
+.st221 {
+    opacity: 0.53;
+    fill: #ffffff;
+}
+.st222 {
+    fill: #402a59;
+}
+.st223 {
+    opacity: 0.3;
+    fill: #384f5b;
+}
+.st224 {
+    opacity: 0.4;
+    fill: #001030;
+}
+.st225 {
+    fill: #a88fc6;
+}
+.st226 {
+    opacity: 0.6;
+    fill: #222e3f;
+}
+.st227 {
+    opacity: 0.46;
+    fill: #93ffff;
+}
+.st228 {
+    fill: #6da5af;
+}
+.st229 {
+    opacity: 0.3;
+    fill: #a88fc6;
+}
+.st230 {
+    opacity: 0.4;
+    fill: #acfaff;
+}
+.st231 {
+    fill: #538399;
+    stroke: #000000;
+    stroke-width: 0.7174;
+    stroke-miterlimit: 10;
+}
+.st232 {
+    opacity: 0.3;
+    fill: #acfaff;
+}
+.st233 {
+    fill: #436c7a;
+    stroke: #445a5e;
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+.st234 {
+    fill: #138e5c;
+}
+.st235 {
+    fill: #00ff5c;
+}
+.st236 {
+    fill: #90ff94;
+}
+.st237 {
+    opacity: 0.5;
+    fill: #222e3f;
+}
+.st238 {
+    opacity: 0.63;
+    fill: #ffde8d;
+}
+.st239 {
+    opacity: 0.56;
+    fill: #9e1800;
+}
+.st240 {
+    opacity: 0.33;
+    fill: #4a4f52;
+}
+.st241 {
+    fill: #ffd400;
+}
+.st242 {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 1.947;
+    stroke-miterlimit: 10;
+}
+.st243 {
+    opacity: 0.6;
+    fill: #657a99;
+}
